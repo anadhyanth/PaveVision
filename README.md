@@ -33,6 +33,22 @@ In addition to benchmark evaluation using the NRDD2024 dataset, the system was v
 
 ---
 
+## Proposed Architecture
+
+<p align="center">
+  <img src="assets/proposedArch.png" width="100%">
+</p>
+
+---
+
+## workflow
+
+<p align="center">
+  <img src="assets/workflow.png" width="100%">
+</p>
+
+---
+
 ## Key Features
 
 * Automated pavement distress detection using YOLOv8
