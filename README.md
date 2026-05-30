@@ -262,8 +262,34 @@ PaveVision/
 
 ## Collaborating Departments
 
-* Department of Civil Engineering
-* Department of Artificial Intelligence & Machine Learning
+- Department of Civil Engineering
+- Department of Artificial Intelligence & Machine Learning
+
+---
+
+## Project Team
+
+This project was developed through a collaborative effort between the Departments of Civil Engineering and Artificial Intelligence & Machine Learning at Chaitanya Bharathi Institute of Technology (CBIT).
+
+| Name | Department |
+|--------|------------|
+| **P. Sri Vinya Manju Bhargavi** | Civil Engineering |
+| **Manoj Kumar Sunkara** | Artificial Intelligence & Machine Learning |
+| **Kotla Geethika** | Artificial Intelligence & Machine Learning |
+
+### Contributions
+
+#### Civil Engineering Team
+- Pavement distress analysis
+- PCI assessment methodology
+- Road condition evaluation
+- Field data collection
+
+#### AI & ML Team
+- Deep learning model development
+- YOLOv8 training and optimization
+- Web application development
+- Deployment and validation
 
 ---
 
@@ -272,15 +298,17 @@ PaveVision/
 ### Academic Guide
 
 Dr. Kakara Srikanth
-Assistant Professor
-Department of Civil Engineering
+
+Assistant Professor  
+Department of Civil Engineering  
 CBIT
 
 ### Co-Guide
 
 Mr. Panigrahi Srikanth
-Assistant Professor
-Department of Artificial Intelligence & Machine Learning
+
+Assistant Professor  
+Department of Artificial Intelligence & Machine Learning  
 CBIT
 
 ---
