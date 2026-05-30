@@ -177,6 +177,27 @@ The validation dataset includes:
 
 This evaluation confirms the practical applicability of the proposed system beyond benchmark datasets.
 
+## CBIT Real-World Validation
+
+To evaluate the generalization capability of PaveVision beyond benchmark datasets, a dedicated validation dataset was collected from road networks within the Chaitanya Bharathi Institute of Technology (CBIT) campus.
+
+The collected images contain real pavement conditions, including potholes, transverse cracks, alligator cracking, patching, and repaired surfaces captured under diverse environmental and lighting conditions.
+
+### Sample Validation Results
+
+<p align="center">
+  <img src="assets/cbit_validation/test_img2.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="assets/cbit_validation/test_img1.png" width="90%">
+</p>
+
+> **Note:** These images were independently collected from CBIT campus roads and were not part of the original benchmark dataset. They were used to evaluate the real-world deployment capability and generalization performance of the proposed PaveVision framework.
+
+These results demonstrate the ability of the trained YOLOv8-based detection framework to identify multiple pavement distress types in previously unseen road environments.
+
+
 ---
 
 ## Project Structure
