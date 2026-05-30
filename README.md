@@ -1,5 +1,5 @@
 # PaveVision
-PaveVision is an intelligent pavement monitoring platform that combines YOLOv8-based road distress detection with automated Pavement Condition Index (PCI) estimation. Built as a web application and validated on real CBIT campus roads through collaboration between AI and Civil Engineering domains.
+PaveVision is an intelligent pavement monitoring platform that combines automated road distress detection, distress quantification, and Pavement Condition Index (PCI) estimation within a unified web application. The system utilizes YOLOv8 as its core deep learning backbone for pavement distress identification and classification, and has been validated using real-world CBIT campus road imagery through collaboration between Artificial Intelligence and Civil Engineering domains.
 
 <p align="center">
   <img src="assets/arch.png" width="100%">
