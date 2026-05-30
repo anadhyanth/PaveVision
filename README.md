@@ -186,11 +186,11 @@ The collected images contain real pavement conditions, including potholes, trans
 ### Sample Validation Results
 
 <p align="center">
-  <img src="assets/cbit_validation/test_img2.jpg" width="90%">
+  <img src="assets/test_img2.jpg" width="90%">
 </p>
 
 <p align="center">
-  <img src="assets/cbit_validation/test_img1.jpg" width="90%">
+  <img src="assets/test_img1.jpg" width="90%">
 </p>
 
 > **Note:** These images were independently collected from CBIT campus roads and were not part of the original benchmark dataset. They were used to evaluate the real-world deployment capability and generalization performance of the proposed PaveVision framework.
