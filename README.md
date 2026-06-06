@@ -265,7 +265,6 @@ PaveVision/
 - Department of Civil Engineering
 - Department of Artificial Intelligence & Machine Learning
 
----
 
 ## Project Team
 
